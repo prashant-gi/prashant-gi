@@ -11,6 +11,16 @@
 
 An aspiring finance professional with a background in computer science, currently pursuing an MBA in Finance. Proven experience in financial analysis, budgeting, and process optimization from an internship at Telangana State Road Transport Corporation (TSRTC). A strong understanding of financial modeling, portfolio management, and data analysis tools like Excel, Power BI, and SQL. Adept at problem-solving and strategic decision-making, with a demonstrated ability to drive cost-efficiency and profitability.
 
+## **Repositories**
+
+Here are some of my key repositories showcasing my work in Power BI, finance, and data analysis:
+
+- **[Power BI Dashboard Project - Blink it](https://github.com/prashant-gi/powerbi-blinkit)**  
+  A comprehensive Power BI dashboard to analyze critical business KPIs including sales, inventory, marketing analytics, and customer feedback. Ideal for decision-making and performance optimization.
+
+- **[Power BI Projects Repository - Zomato Dashboard](https://github.com/prashant-gi/powerbi-zomato)**  
+  A collection of real-world Power BI projects aimed at mastering DAX, data modeling, and business analytics. Includes SQL integration and optimization best practices for scalable solutions.
+
 ---
 
 ## **Education**
@@ -48,7 +58,7 @@ An aspiring finance professional with a background in computer science, currentl
 
 ## **Project Experience**
 
-### **Power BI Dashboard Project**  
+### **Power BI Dashboard Project - Blink it**  
 *Hyderabad — July 2023 - Present*  
 A professional Power BI dashboard designed to analyze critical business KPIs and improve decision-making.
 
@@ -65,7 +75,7 @@ This project is perfect for businesses, data analysts, and students looking to s
 
 ---
 
-### **Power BI Projects Repository**  
+### **Power BI Dashboard Project - Zomato**  
 *Hyderabad — January 2023 - Present*  
 A collection of Power BI projects aimed at mastering DAX, data modeling, and real-world business problem solving.
 
