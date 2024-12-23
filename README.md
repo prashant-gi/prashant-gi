@@ -1,13 +1,11 @@
----
 
-# Prashnat Kumar Malekar
 
+# Prashant Kumar Malekar
 **Location:** Hyderabad, Telangana  
 **Phone:** +91-9907918089  
 **Email:** prashantmalekar05@gmail.com  
 **LinkedIn:** [Prashant Malekar](https://www.linkedin.com/in/prashant-malekar-9359b8197/)
 
----
 
 ## **Summary**
 
