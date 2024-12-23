@@ -1,6 +1,6 @@
 ---
 
-# Prashant Kumar Malekar
+# Prashnat Kumar Malekar
 
 **Location:** Hyderabad, Telangana  
 **Phone:** +91-9907918089  
